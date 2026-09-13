@@ -1,0 +1,601 @@
+review_id,product_name,reviewer_name,rating,review_text,platform
+1,Cotton T-Shirt,Sneha,5,"Very happy with this Cotton T-Shirt, will definitely buy again from this brand.",Amazon
+2,Air Fryer,Nisha,4,Absolutely loved this Air Fryer! Works perfectly and arrived on time. Customer support responded quickly.,Amazon
+3,LED Desk Lamp,Arjun,5,Impressed by the quality of the LED Desk Lamp. Packaging was also very good. Customer support responded quickly.,Amazon
+4,Wireless Mouse,Rohit,2,"I regret buying this Wireless Mouse, it stopped functioning after few uses.",Flipkart
+5,Smartphone Back Cover,Nisha,5,"Excellent quality Smartphone Back Cover, totally worth the price. Highly recommended!",Flipkart
+6,Wireless Mouse,Karan,4,Great purchase! The Wireless Mouse is durable and easy to use.,Amazon
+7,LED Desk Lamp,Rahul,5,"Perfect LED Desk Lamp for daily use, no issues at all after a month.",Amazon
+8,Cotton T-Shirt,Sneha,4,"Very happy with this Cotton T-Shirt, will definitely buy again from this brand.",Flipkart
+9,Bluetooth Speaker,Rohit,5,Amazing value for money. The Bluetooth Speaker looks premium and works great.,Flipkart
+10,Power Bank 10000mAh,Anjali,3,"Average Power Bank 10000mAh, quality is decent for the price range.",Amazon
+11,Laptop Backpack,Priya,5,"Very happy with this Laptop Backpack, will definitely buy again from this brand.",Amazon
+12,Gaming Keyboard,Rohit,5,Amazing value for money. The Gaming Keyboard looks premium and works great.,Flipkart
+13,Smartwatch,Kavya,2,"I regret buying this Smartwatch, it stopped functioning after few uses. Packaging was neat.",Flipkart
+14,Power Bank 10000mAh,Vikram,2,"The Power Bank 10000mAh is a total scam, completely different from the pictures.",Flipkart
+15,Smartphone Back Cover,Divya,1,"Waste of money, the Smartphone Back Cover quality is really poor.",Amazon
+16,Running Shoes,Amit,5,Great purchase! The Running Shoes is durable and easy to use.,Amazon
+17,Cotton T-Shirt,Suresh,3,"Decent Cotton T-Shirt for the price, some minor issues but usable.",Amazon
+18,Bluetooth Speaker,Arjun,4,Great purchase! The Bluetooth Speaker is durable and easy to use.,Amazon
+19,LED Desk Lamp,Sanjay,3,"Decent LED Desk Lamp for the price, some minor issues but usable.",Amazon
+20,Laptop Backpack,Riya,4,Best Laptop Backpack I have bought online. Great build quality and fast delivery.,Amazon
+21,Smartphone Back Cover,Deepak,3,"Decent Smartphone Back Cover for the price, some minor issues but usable. Packaging was neat.",Amazon
+22,Smartphone Back Cover,Isha,1,"Waste of money, the Smartphone Back Cover quality is really poor. Not sure if I will repurchase.",Amazon
+23,Bluetooth Speaker,Isha,5,"Perfect Bluetooth Speaker for daily use, no issues at all after a month.",Amazon
+24,Power Bank 10000mAh,Manoj,5,Amazing value for money. The Power Bank 10000mAh looks premium and works great.,Amazon
+25,Smartwatch,Kavya,4,Amazing value for money. The Smartwatch looks premium and works great.,Amazon
+26,Wireless Bluetooth Earbuds,Suresh,5,Absolutely loved this Wireless Bluetooth Earbuds! Works perfectly and arrived on time. Shipping was quick.,Amazon
+27,LED Desk Lamp,Deepak,5,Great purchase! The LED Desk Lamp is durable and easy to use.,Flipkart
+28,Smartwatch,Divya,1,"I regret buying this Smartwatch, it stopped functioning after few uses.",Flipkart
+29,Running Shoes,Suresh,4,Absolutely loved this Running Shoes! Works perfectly and arrived on time.,Amazon
+30,Smartwatch,Arjun,5,Impressed by the quality of the Smartwatch. Packaging was also very good. Packaging was neat.,Flipkart
+31,Smartwatch,Isha,3,"Average Smartwatch, quality is decent for the price range.",Amazon
+32,Wireless Bluetooth Earbuds,Kavya,1,"Really bad Wireless Bluetooth Earbuds, would not recommend to anyone.",Amazon
+33,Running Shoes,Anjali,5,"Superb product! The Running Shoes exceeded my expectations, five stars.",Flipkart
+34,Wireless Bluetooth Earbuds,Manoj,3,"Decent Wireless Bluetooth Earbuds for the price, some minor issues but usable.",Flipkart
+35,Running Shoes,Rohit,2,"Really bad Running Shoes, would not recommend to anyone. Would consider buying again.",Amazon
+36,Air Fryer,Riya,2,Very disappointed with this Air Fryer. Stopped working within a week. Customer support responded quickly.,Amazon
+37,Wireless Bluetooth Earbuds,Rahul,3,"Average Wireless Bluetooth Earbuds, quality is decent for the price range.",Amazon
+38,Cotton T-Shirt,Kavya,3,"Okay-ish product, the Cotton T-Shirt performs as expected, nothing more. Customer support responded quickly.",Amazon
+39,Air Fryer,Rohit,5,"Perfect Air Fryer for daily use, no issues at all after a month.",Flipkart
+40,Smartwatch,Rahul,5,Best Smartwatch I have bought online. Great build quality and fast delivery.,Amazon
+41,Kitchen Mixer Grinder,Sanjay,1,"The Kitchen Mixer Grinder is a total scam, completely different from the pictures. Packaging was neat.",Flipkart
+42,Laptop Backpack,Pooja,3,"Average Laptop Backpack, quality is decent for the price range.",Flipkart
+43,Laptop Backpack,Sanjay,5,Impressed by the quality of the Laptop Backpack. Packaging was also very good.,Amazon
+44,Cotton T-Shirt,Vikram,1,"Terrible experience, the Cotton T-Shirt does not match the product description.",Flipkart
+45,Smartphone Back Cover,Nisha,3,"It's a fine Smartphone Back Cover, met basic expectations, could be better.",Amazon
+46,Power Bank 10000mAh,Priya,5,"Very happy with this Power Bank 10000mAh, will definitely buy again from this brand.",Amazon
+47,Cotton T-Shirt,Arjun,4,"Very happy with this Cotton T-Shirt, will definitely buy again from this brand. Packaging was neat.",Amazon
+48,Power Bank 10000mAh,Vikram,4,"This Power Bank 10000mAh is fantastic, exactly as described. Very satisfied customer.",Amazon
+49,Gaming Keyboard,Priya,5,Impressed by the quality of the Gaming Keyboard. Packaging was also very good.,Flipkart
+50,USB-C Charging Cable,Rohit,3,"The USB-C Charging Cable is okay, does the job but nothing special.",Amazon
+51,Cotton T-Shirt,Vikram,5,Impressed by the quality of the Cotton T-Shirt. Packaging was also very good.,Amazon
+52,Gaming Keyboard,Suresh,5,Best Gaming Keyboard I have bought online. Great build quality and fast delivery.,Flipkart
+53,Wireless Mouse,Sneha,2,"Not worth the price, this Wireless Mouse broke on the second day.",Flipkart
+54,Gaming Keyboard,Pooja,5,Great purchase! The Gaming Keyboard is durable and easy to use. Not sure if I will repurchase.,Flipkart
+55,Gaming Keyboard,Karan,1,"Not worth the price, this Gaming Keyboard broke on the second day. Packaging was neat.",Flipkart
+56,Bluetooth Speaker,Sanjay,3,"Decent Bluetooth Speaker for the price, some minor issues but usable.",Flipkart
+57,Cotton T-Shirt,Sneha,3,"The Cotton T-Shirt is average, packaging could have been better.",Flipkart
+58,Laptop Backpack,Pooja,1,"Terrible experience, the Laptop Backpack does not match the product description. Not sure if I will repurchase.",Flipkart
+59,Running Shoes,Deepak,1,"Really bad Running Shoes, would not recommend to anyone.",Amazon
+60,Bluetooth Speaker,Isha,4,"This Bluetooth Speaker is fantastic, exactly as described. Very satisfied customer.",Amazon
+61,USB-C Charging Cable,Sneha,5,Amazing value for money. The USB-C Charging Cable looks premium and works great.,Flipkart
+62,LED Desk Lamp,Neha,5,"This LED Desk Lamp is fantastic, exactly as described. Very satisfied customer.",Amazon
+63,Smartwatch,Neha,5,"This Smartwatch is fantastic, exactly as described. Very satisfied customer.",Flipkart
+64,LED Desk Lamp,Nisha,2,"Terrible experience, the LED Desk Lamp does not match the product description. Customer support responded quickly.",Flipkart
+65,Kitchen Mixer Grinder,Anjali,5,"Superb product! The Kitchen Mixer Grinder exceeded my expectations, five stars.",Amazon
+66,Bluetooth Speaker,Neha,5,"Perfect Bluetooth Speaker for daily use, no issues at all after a month. Packaging was neat.",Amazon
+67,Wireless Mouse,Nisha,4,Absolutely loved this Wireless Mouse! Works perfectly and arrived on time. Not sure if I will repurchase.,Amazon
+68,Kitchen Mixer Grinder,Karan,5,"Perfect Kitchen Mixer Grinder for daily use, no issues at all after a month.",Flipkart
+69,Running Shoes,Kavya,4,Absolutely loved this Running Shoes! Works perfectly and arrived on time.,Amazon
+70,Wireless Mouse,Sneha,3,"Reasonable Wireless Mouse, matches the description mostly. Packaging was neat.",Flipkart
+71,Laptop Backpack,Manoj,2,"Really bad Laptop Backpack, would not recommend to anyone.",Flipkart
+72,Gaming Keyboard,Riya,3,"Reasonable Gaming Keyboard, matches the description mostly.",Flipkart
+73,Bluetooth Speaker,Arjun,2,"Terrible experience, the Bluetooth Speaker does not match the product description.",Flipkart
+74,Smartphone Back Cover,Isha,2,"Not worth the price, this Smartphone Back Cover broke on the second day.",Amazon
+75,Laptop Backpack,Rahul,5,"This Laptop Backpack is fantastic, exactly as described. Very satisfied customer.",Flipkart
+76,Running Shoes,Karan,5,Great purchase! The Running Shoes is durable and easy to use. Not sure if I will repurchase.,Amazon
+77,Gaming Keyboard,Pooja,3,"Okay-ish product, the Gaming Keyboard performs as expected, nothing more.",Flipkart
+78,Wireless Mouse,Arjun,5,"This Wireless Mouse is fantastic, exactly as described. Very satisfied customer.",Flipkart
+79,Kitchen Mixer Grinder,Manoj,5,Amazing value for money. The Kitchen Mixer Grinder looks premium and works great.,Amazon
+80,Air Fryer,Vikram,4,"This Air Fryer is fantastic, exactly as described. Very satisfied customer. Not sure if I will repurchase.",Flipkart
+81,Laptop Backpack,Suresh,5,"This Laptop Backpack is fantastic, exactly as described. Very satisfied customer. Would consider buying again.",Flipkart
+82,Bluetooth Speaker,Riya,2,"I regret buying this Bluetooth Speaker, it stopped functioning after few uses.",Amazon
+83,Power Bank 10000mAh,Priya,5,Amazing value for money. The Power Bank 10000mAh looks premium and works great.,Amazon
+84,Smartwatch,Sneha,5,Absolutely loved this Smartwatch! Works perfectly and arrived on time. Not sure if I will repurchase.,Amazon
+85,Kitchen Mixer Grinder,Sneha,1,"Poor build quality, the Kitchen Mixer Grinder feels cheap and flimsy.",Amazon
+86,Bluetooth Speaker,Karan,5,Absolutely loved this Bluetooth Speaker! Works perfectly and arrived on time.,Flipkart
+87,Power Bank 10000mAh,Nisha,5,"Perfect Power Bank 10000mAh for daily use, no issues at all after a month. Would consider buying again.",Amazon
+88,Wireless Mouse,Divya,3,"The Wireless Mouse is okay, does the job but nothing special.",Flipkart
+89,Smartphone Back Cover,Riya,4,Amazing value for money. The Smartphone Back Cover looks premium and works great.,Amazon
+90,Running Shoes,Divya,3,"Reasonable Running Shoes, matches the description mostly.",Amazon
+91,Power Bank 10000mAh,Deepak,5,"Very happy with this Power Bank 10000mAh, will definitely buy again from this brand.",Flipkart
+92,USB-C Charging Cable,Manoj,3,"Average USB-C Charging Cable, quality is decent for the price range.",Amazon
+93,Wireless Mouse,Riya,5,"Perfect Wireless Mouse for daily use, no issues at all after a month.",Flipkart
+94,Laptop Backpack,Nisha,5,Amazing value for money. The Laptop Backpack looks premium and works great.,Flipkart
+95,LED Desk Lamp,Riya,4,"Superb product! The LED Desk Lamp exceeded my expectations, five stars. Not sure if I will repurchase.",Amazon
+96,Power Bank 10000mAh,Rahul,5,Great purchase! The Power Bank 10000mAh is durable and easy to use.,Flipkart
+97,Smartwatch,Pooja,5,"Superb product! The Smartwatch exceeded my expectations, five stars.",Flipkart
+98,LED Desk Lamp,Manoj,5,"This LED Desk Lamp is fantastic, exactly as described. Very satisfied customer.",Flipkart
+99,Bluetooth Speaker,Isha,5,"Excellent quality Bluetooth Speaker, totally worth the price. Highly recommended!",Amazon
+100,Smartwatch,Sanjay,5,Great purchase! The Smartwatch is durable and easy to use.,Flipkart
+101,Smartphone Back Cover,Neha,1,"Terrible experience, the Smartphone Back Cover does not match the product description.",Amazon
+102,Power Bank 10000mAh,Isha,4,"Very happy with this Power Bank 10000mAh, will definitely buy again from this brand.",Flipkart
+103,Power Bank 10000mAh,Deepak,3,"Reasonable Power Bank 10000mAh, matches the description mostly. Shipping was quick.",Flipkart
+104,Kitchen Mixer Grinder,Arjun,5,Amazing value for money. The Kitchen Mixer Grinder looks premium and works great.,Flipkart
+105,Smartphone Back Cover,Priya,2,"I regret buying this Smartphone Back Cover, it stopped functioning after few uses.",Amazon
+106,Laptop Backpack,Sneha,1,"Terrible experience, the Laptop Backpack does not match the product description.",Flipkart
+107,Air Fryer,Karan,1,"The Air Fryer is a total scam, completely different from the pictures.",Flipkart
+108,Office Chair,Nisha,5,"Perfect Office Chair for daily use, no issues at all after a month.",Amazon
+109,Air Fryer,Rohit,3,"Average Air Fryer, quality is decent for the price range.",Amazon
+110,Bluetooth Speaker,Anjali,1,The Bluetooth Speaker arrived damaged and customer service was unhelpful. Shipping was quick.,Amazon
+111,Running Shoes,Kavya,5,"Perfect Running Shoes for daily use, no issues at all after a month.",Flipkart
+112,Power Bank 10000mAh,Arjun,4,Great purchase! The Power Bank 10000mAh is durable and easy to use.,Amazon
+113,Running Shoes,Vikram,5,"Superb product! The Running Shoes exceeded my expectations, five stars.",Amazon
+114,Wireless Bluetooth Earbuds,Manoj,5,"Very happy with this Wireless Bluetooth Earbuds, will definitely buy again from this brand.",Flipkart
+115,Power Bank 10000mAh,Nisha,5,"Very happy with this Power Bank 10000mAh, will definitely buy again from this brand.",Amazon
+116,Office Chair,Deepak,5,Amazing value for money. The Office Chair looks premium and works great. Packaging was neat.,Amazon
+117,Wireless Mouse,Anjali,1,"Terrible experience, the Wireless Mouse does not match the product description.",Flipkart
+118,LED Desk Lamp,Divya,1,"Terrible experience, the LED Desk Lamp does not match the product description.",Flipkart
+119,Smartphone Back Cover,Sneha,5,"This Smartphone Back Cover is fantastic, exactly as described. Very satisfied customer.",Amazon
+120,USB-C Charging Cable,Karan,5,Great purchase! The USB-C Charging Cable is durable and easy to use.,Amazon
+121,Kitchen Mixer Grinder,Sanjay,5,"Very happy with this Kitchen Mixer Grinder, will definitely buy again from this brand. Not sure if I will repurchase.",Amazon
+122,Cotton T-Shirt,Rohit,3,"Reasonable Cotton T-Shirt, matches the description mostly.",Flipkart
+123,Air Fryer,Vikram,1,Delivery was late and the Air Fryer was defective on arrival. Customer support responded quickly.,Flipkart
+124,Kitchen Mixer Grinder,Nisha,3,"Reasonable Kitchen Mixer Grinder, matches the description mostly.",Amazon
+125,Power Bank 10000mAh,Rahul,4,Impressed by the quality of the Power Bank 10000mAh. Packaging was also very good.,Amazon
+126,Gaming Keyboard,Vikram,3,"Reasonable Gaming Keyboard, matches the description mostly.",Flipkart
+127,Office Chair,Riya,2,"Really bad Office Chair, would not recommend to anyone.",Flipkart
+128,Smartwatch,Sanjay,5,Best Smartwatch I have bought online. Great build quality and fast delivery. Customer support responded quickly.,Amazon
+129,Gaming Keyboard,Sanjay,5,"This Gaming Keyboard is fantastic, exactly as described. Very satisfied customer.",Flipkart
+130,Gaming Keyboard,Manoj,5,"Very happy with this Gaming Keyboard, will definitely buy again from this brand.",Flipkart
+131,USB-C Charging Cable,Suresh,5,Impressed by the quality of the USB-C Charging Cable. Packaging was also very good.,Amazon
+132,Power Bank 10000mAh,Divya,5,"This Power Bank 10000mAh is fantastic, exactly as described. Very satisfied customer.",Amazon
+133,USB-C Charging Cable,Vikram,2,"I regret buying this USB-C Charging Cable, it stopped functioning after few uses.",Flipkart
+134,Wireless Bluetooth Earbuds,Manoj,5,"Perfect Wireless Bluetooth Earbuds for daily use, no issues at all after a month.",Amazon
+135,LED Desk Lamp,Divya,3,"The LED Desk Lamp is okay, does the job but nothing special.",Amazon
+136,Smartphone Back Cover,Karan,5,"Very happy with this Smartphone Back Cover, will definitely buy again from this brand.",Amazon
+137,Gaming Keyboard,Riya,5,Impressed by the quality of the Gaming Keyboard. Packaging was also very good.,Amazon
+138,Air Fryer,Divya,5,"Very happy with this Air Fryer, will definitely buy again from this brand.",Amazon
+139,Wireless Mouse,Amit,2,"Waste of money, the Wireless Mouse quality is really poor. Would consider buying again.",Amazon
+140,USB-C Charging Cable,Vikram,2,"Terrible experience, the USB-C Charging Cable does not match the product description.",Amazon
+141,LED Desk Lamp,Karan,5,Best LED Desk Lamp I have bought online. Great build quality and fast delivery. Customer support responded quickly.,Amazon
+142,Kitchen Mixer Grinder,Arjun,3,"It's a fine Kitchen Mixer Grinder, met basic expectations, could be better.",Flipkart
+143,Bluetooth Speaker,Anjali,2,Delivery was late and the Bluetooth Speaker was defective on arrival.,Amazon
+144,Kitchen Mixer Grinder,Divya,3,"Decent Kitchen Mixer Grinder for the price, some minor issues but usable.",Flipkart
+145,Kitchen Mixer Grinder,Sneha,2,"Not worth the price, this Kitchen Mixer Grinder broke on the second day.",Amazon
+146,Running Shoes,Neha,2,"The Running Shoes is a total scam, completely different from the pictures.",Amazon
+147,Gaming Keyboard,Priya,1,"Terrible experience, the Gaming Keyboard does not match the product description.",Flipkart
+148,Gaming Keyboard,Kavya,3,"Decent Gaming Keyboard for the price, some minor issues but usable.",Flipkart
+149,Smartwatch,Vikram,2,"The Smartwatch is a total scam, completely different from the pictures.",Amazon
+150,Office Chair,Priya,2,Very disappointed with this Office Chair. Stopped working within a week.,Flipkart
+151,Power Bank 10000mAh,Anjali,5,"Very happy with this Power Bank 10000mAh, will definitely buy again from this brand.",Amazon
+152,Laptop Backpack,Arjun,2,"Poor build quality, the Laptop Backpack feels cheap and flimsy.",Flipkart
+153,Wireless Mouse,Rahul,4,Amazing value for money. The Wireless Mouse looks premium and works great.,Amazon
+154,Wireless Mouse,Isha,3,"Okay-ish product, the Wireless Mouse performs as expected, nothing more.",Flipkart
+155,Smartphone Back Cover,Manoj,2,Very disappointed with this Smartphone Back Cover. Stopped working within a week.,Flipkart
+156,Cotton T-Shirt,Pooja,2,"Terrible experience, the Cotton T-Shirt does not match the product description.",Amazon
+157,Cotton T-Shirt,Kavya,5,Absolutely loved this Cotton T-Shirt! Works perfectly and arrived on time.,Amazon
+158,Cotton T-Shirt,Priya,2,"Terrible experience, the Cotton T-Shirt does not match the product description. Shipping was quick.",Flipkart
+159,Kitchen Mixer Grinder,Pooja,5,"Superb product! The Kitchen Mixer Grinder exceeded my expectations, five stars.",Flipkart
+160,Air Fryer,Riya,2,The Air Fryer arrived damaged and customer service was unhelpful.,Flipkart
+161,Bluetooth Speaker,Kavya,5,Amazing value for money. The Bluetooth Speaker looks premium and works great.,Flipkart
+162,Smartphone Back Cover,Pooja,3,"The Smartphone Back Cover is average, packaging could have been better.",Amazon
+163,Running Shoes,Nisha,5,"Excellent quality Running Shoes, totally worth the price. Highly recommended! Packaging was neat.",Amazon
+164,Wireless Bluetooth Earbuds,Rohit,1,"Not worth the price, this Wireless Bluetooth Earbuds broke on the second day.",Amazon
+165,Gaming Keyboard,Kavya,1,"Not worth the price, this Gaming Keyboard broke on the second day.",Flipkart
+166,Wireless Mouse,Vikram,4,"Perfect Wireless Mouse for daily use, no issues at all after a month.",Amazon
+167,LED Desk Lamp,Amit,4,Best LED Desk Lamp I have bought online. Great build quality and fast delivery.,Amazon
+168,Wireless Bluetooth Earbuds,Priya,5,"Superb product! The Wireless Bluetooth Earbuds exceeded my expectations, five stars. Would consider buying again.",Amazon
+169,Power Bank 10000mAh,Pooja,4,"Excellent quality Power Bank 10000mAh, totally worth the price. Highly recommended!",Amazon
+170,Kitchen Mixer Grinder,Sanjay,4,"Perfect Kitchen Mixer Grinder for daily use, no issues at all after a month.",Flipkart
+171,Kitchen Mixer Grinder,Karan,1,Very disappointed with this Kitchen Mixer Grinder. Stopped working within a week.,Flipkart
+172,Cotton T-Shirt,Suresh,4,Great purchase! The Cotton T-Shirt is durable and easy to use.,Amazon
+173,Smartphone Back Cover,Nisha,5,"Perfect Smartphone Back Cover for daily use, no issues at all after a month.",Flipkart
+174,Kitchen Mixer Grinder,Sneha,4,"This Kitchen Mixer Grinder is fantastic, exactly as described. Very satisfied customer.",Amazon
+175,Running Shoes,Manoj,5,"Superb product! The Running Shoes exceeded my expectations, five stars.",Flipkart
+176,Running Shoes,Arjun,2,"Poor build quality, the Running Shoes feels cheap and flimsy.",Flipkart
+177,Laptop Backpack,Rahul,1,Delivery was late and the Laptop Backpack was defective on arrival. Shipping was quick.,Flipkart
+178,Smartphone Back Cover,Deepak,1,"Poor build quality, the Smartphone Back Cover feels cheap and flimsy.",Flipkart
+179,Cotton T-Shirt,Priya,5,Amazing value for money. The Cotton T-Shirt looks premium and works great.,Flipkart
+180,Air Fryer,Kavya,5,"Excellent quality Air Fryer, totally worth the price. Highly recommended! Not sure if I will repurchase.",Amazon
+181,USB-C Charging Cable,Deepak,1,"Poor build quality, the USB-C Charging Cable feels cheap and flimsy.",Amazon
+182,Wireless Mouse,Arjun,4,Impressed by the quality of the Wireless Mouse. Packaging was also very good.,Amazon
+183,Laptop Backpack,Anjali,5,"Very happy with this Laptop Backpack, will definitely buy again from this brand.",Amazon
+184,Air Fryer,Amit,1,"Waste of money, the Air Fryer quality is really poor.",Amazon
+185,Power Bank 10000mAh,Anjali,5,"This Power Bank 10000mAh is fantastic, exactly as described. Very satisfied customer.",Flipkart
+186,Bluetooth Speaker,Vikram,1,"The Bluetooth Speaker is a total scam, completely different from the pictures.",Amazon
+187,Wireless Mouse,Divya,2,"Waste of money, the Wireless Mouse quality is really poor.",Flipkart
+188,Air Fryer,Sneha,5,"Very happy with this Air Fryer, will definitely buy again from this brand.",Flipkart
+189,Running Shoes,Neha,5,"Perfect Running Shoes for daily use, no issues at all after a month.",Amazon
+190,Smartwatch,Rohit,4,"Perfect Smartwatch for daily use, no issues at all after a month. Would consider buying again.",Amazon
+191,Wireless Mouse,Divya,4,Amazing value for money. The Wireless Mouse looks premium and works great.,Amazon
+192,Laptop Backpack,Priya,5,"Superb product! The Laptop Backpack exceeded my expectations, five stars.",Flipkart
+193,Wireless Bluetooth Earbuds,Deepak,5,"Excellent quality Wireless Bluetooth Earbuds, totally worth the price. Highly recommended!",Flipkart
+194,Power Bank 10000mAh,Suresh,1,"Terrible experience, the Power Bank 10000mAh does not match the product description.",Amazon
+195,Wireless Mouse,Pooja,3,"Reasonable Wireless Mouse, matches the description mostly.",Amazon
+196,Running Shoes,Sanjay,2,"Not worth the price, this Running Shoes broke on the second day.",Amazon
+197,Running Shoes,Rahul,3,"The Running Shoes is average, packaging could have been better. Packaging was neat.",Amazon
+198,LED Desk Lamp,Vikram,5,Amazing value for money. The LED Desk Lamp looks premium and works great.,Amazon
+199,Smartphone Back Cover,Rahul,5,"Superb product! The Smartphone Back Cover exceeded my expectations, five stars.",Amazon
+200,Wireless Mouse,Deepak,2,Delivery was late and the Wireless Mouse was defective on arrival.,Flipkart
+201,Gaming Keyboard,Riya,3,"The Gaming Keyboard is average, packaging could have been better. Shipping was quick.",Flipkart
+202,Cotton T-Shirt,Rahul,4,"Very happy with this Cotton T-Shirt, will definitely buy again from this brand.",Flipkart
+203,Kitchen Mixer Grinder,Rahul,5,Absolutely loved this Kitchen Mixer Grinder! Works perfectly and arrived on time.,Amazon
+204,Air Fryer,Priya,2,"I regret buying this Air Fryer, it stopped functioning after few uses.",Flipkart
+205,Office Chair,Sanjay,2,"Not worth the price, this Office Chair broke on the second day.",Amazon
+206,Wireless Bluetooth Earbuds,Anjali,4,Amazing value for money. The Wireless Bluetooth Earbuds looks premium and works great.,Amazon
+207,Smartwatch,Neha,1,Delivery was late and the Smartwatch was defective on arrival.,Flipkart
+208,Running Shoes,Suresh,1,"The Running Shoes is a total scam, completely different from the pictures.",Amazon
+209,USB-C Charging Cable,Nisha,5,"This USB-C Charging Cable is fantastic, exactly as described. Very satisfied customer.",Amazon
+210,USB-C Charging Cable,Karan,5,Best USB-C Charging Cable I have bought online. Great build quality and fast delivery.,Amazon
+211,Air Fryer,Suresh,2,"Waste of money, the Air Fryer quality is really poor.",Amazon
+212,Cotton T-Shirt,Divya,1,"Really bad Cotton T-Shirt, would not recommend to anyone.",Flipkart
+213,Wireless Bluetooth Earbuds,Riya,5,Best Wireless Bluetooth Earbuds I have bought online. Great build quality and fast delivery.,Amazon
+214,Smartwatch,Sanjay,3,"It's a fine Smartwatch, met basic expectations, could be better. Shipping was quick.",Amazon
+215,Cotton T-Shirt,Vikram,5,"Perfect Cotton T-Shirt for daily use, no issues at all after a month.",Amazon
+216,Laptop Backpack,Priya,1,"The Laptop Backpack is a total scam, completely different from the pictures.",Flipkart
+217,USB-C Charging Cable,Manoj,2,"Not worth the price, this USB-C Charging Cable broke on the second day.",Amazon
+218,LED Desk Lamp,Deepak,5,Great purchase! The LED Desk Lamp is durable and easy to use.,Flipkart
+219,Kitchen Mixer Grinder,Rohit,2,"I regret buying this Kitchen Mixer Grinder, it stopped functioning after few uses.",Amazon
+220,Gaming Keyboard,Sneha,5,Great purchase! The Gaming Keyboard is durable and easy to use.,Amazon
+221,Bluetooth Speaker,Sanjay,5,Best Bluetooth Speaker I have bought online. Great build quality and fast delivery.,Amazon
+222,Gaming Keyboard,Amit,5,"Superb product! The Gaming Keyboard exceeded my expectations, five stars.",Flipkart
+223,Wireless Bluetooth Earbuds,Rahul,5,Amazing value for money. The Wireless Bluetooth Earbuds looks premium and works great.,Flipkart
+224,Smartwatch,Vikram,5,"Excellent quality Smartwatch, totally worth the price. Highly recommended!",Amazon
+225,Bluetooth Speaker,Vikram,3,"Reasonable Bluetooth Speaker, matches the description mostly.",Flipkart
+226,Kitchen Mixer Grinder,Vikram,1,"Waste of money, the Kitchen Mixer Grinder quality is really poor.",Flipkart
+227,Smartphone Back Cover,Divya,2,"Not worth the price, this Smartphone Back Cover broke on the second day. Packaging was neat.",Flipkart
+228,Smartphone Back Cover,Deepak,4,Great purchase! The Smartphone Back Cover is durable and easy to use.,Amazon
+229,Power Bank 10000mAh,Kavya,4,"This Power Bank 10000mAh is fantastic, exactly as described. Very satisfied customer.",Flipkart
+230,Laptop Backpack,Isha,2,"Waste of money, the Laptop Backpack quality is really poor. Customer support responded quickly.",Amazon
+231,Running Shoes,Pooja,3,"The Running Shoes is okay, does the job but nothing special.",Flipkart
+232,Power Bank 10000mAh,Sneha,5,"Excellent quality Power Bank 10000mAh, totally worth the price. Highly recommended!",Flipkart
+233,Laptop Backpack,Anjali,5,Impressed by the quality of the Laptop Backpack. Packaging was also very good.,Flipkart
+234,Power Bank 10000mAh,Priya,5,Best Power Bank 10000mAh I have bought online. Great build quality and fast delivery. Not sure if I will repurchase.,Flipkart
+235,Smartwatch,Neha,4,"Superb product! The Smartwatch exceeded my expectations, five stars.",Flipkart
+236,Gaming Keyboard,Rohit,4,"Very happy with this Gaming Keyboard, will definitely buy again from this brand.",Flipkart
+237,USB-C Charging Cable,Suresh,3,"The USB-C Charging Cable is okay, does the job but nothing special.",Flipkart
+238,Smartphone Back Cover,Karan,2,"I regret buying this Smartphone Back Cover, it stopped functioning after few uses.",Flipkart
+239,Laptop Backpack,Sanjay,5,Great purchase! The Laptop Backpack is durable and easy to use.,Flipkart
+240,Wireless Mouse,Anjali,4,"This Wireless Mouse is fantastic, exactly as described. Very satisfied customer.",Flipkart
+241,USB-C Charging Cable,Nisha,5,Amazing value for money. The USB-C Charging Cable looks premium and works great.,Flipkart
+242,Laptop Backpack,Nisha,2,"Poor build quality, the Laptop Backpack feels cheap and flimsy. Would consider buying again.",Flipkart
+243,Bluetooth Speaker,Karan,1,Very disappointed with this Bluetooth Speaker. Stopped working within a week.,Flipkart
+244,LED Desk Lamp,Manoj,1,The LED Desk Lamp arrived damaged and customer service was unhelpful. Customer support responded quickly.,Amazon
+245,Laptop Backpack,Deepak,5,Amazing value for money. The Laptop Backpack looks premium and works great.,Amazon
+246,Air Fryer,Rahul,5,Great purchase! The Air Fryer is durable and easy to use.,Amazon
+247,LED Desk Lamp,Amit,5,Amazing value for money. The LED Desk Lamp looks premium and works great. Shipping was quick.,Amazon
+248,Kitchen Mixer Grinder,Arjun,4,Impressed by the quality of the Kitchen Mixer Grinder. Packaging was also very good.,Flipkart
+249,Smartwatch,Riya,3,"Decent Smartwatch for the price, some minor issues but usable.",Amazon
+250,Smartphone Back Cover,Manoj,5,"Excellent quality Smartphone Back Cover, totally worth the price. Highly recommended!",Amazon
+251,Wireless Mouse,Isha,2,"Poor build quality, the Wireless Mouse feels cheap and flimsy.",Flipkart
+252,Office Chair,Sanjay,5,Best Office Chair I have bought online. Great build quality and fast delivery.,Amazon
+253,Smartphone Back Cover,Amit,3,"It's a fine Smartphone Back Cover, met basic expectations, could be better. Not sure if I will repurchase.",Flipkart
+254,LED Desk Lamp,Rahul,1,Delivery was late and the LED Desk Lamp was defective on arrival.,Amazon
+255,Bluetooth Speaker,Deepak,5,Great purchase! The Bluetooth Speaker is durable and easy to use.,Amazon
+256,Laptop Backpack,Sanjay,3,"Average Laptop Backpack, quality is decent for the price range.",Flipkart
+257,Laptop Backpack,Vikram,3,"It's a fine Laptop Backpack, met basic expectations, could be better.",Flipkart
+258,LED Desk Lamp,Sanjay,3,"The LED Desk Lamp is okay, does the job but nothing special.",Amazon
+259,Bluetooth Speaker,Sanjay,5,Amazing value for money. The Bluetooth Speaker looks premium and works great.,Flipkart
+260,Gaming Keyboard,Nisha,5,"Superb product! The Gaming Keyboard exceeded my expectations, five stars. Would consider buying again.",Amazon
+261,LED Desk Lamp,Nisha,1,"The LED Desk Lamp is a total scam, completely different from the pictures. Customer support responded quickly.",Flipkart
+262,Gaming Keyboard,Amit,3,"The Gaming Keyboard is okay, does the job but nothing special.",Amazon
+263,Wireless Bluetooth Earbuds,Deepak,3,"Decent Wireless Bluetooth Earbuds for the price, some minor issues but usable.",Flipkart
+264,Air Fryer,Neha,2,Delivery was late and the Air Fryer was defective on arrival.,Flipkart
+265,Smartwatch,Priya,2,"I regret buying this Smartwatch, it stopped functioning after few uses.",Amazon
+266,Kitchen Mixer Grinder,Vikram,5,Great purchase! The Kitchen Mixer Grinder is durable and easy to use.,Flipkart
+267,Gaming Keyboard,Sanjay,2,"Poor build quality, the Gaming Keyboard feels cheap and flimsy. Would consider buying again.",Amazon
+268,USB-C Charging Cable,Vikram,5,"Excellent quality USB-C Charging Cable, totally worth the price. Highly recommended!",Amazon
+269,Wireless Bluetooth Earbuds,Suresh,5,"This Wireless Bluetooth Earbuds is fantastic, exactly as described. Very satisfied customer. Packaging was neat.",Flipkart
+270,Smartwatch,Neha,2,Delivery was late and the Smartwatch was defective on arrival.,Flipkart
+271,Wireless Bluetooth Earbuds,Rohit,5,"This Wireless Bluetooth Earbuds is fantastic, exactly as described. Very satisfied customer.",Flipkart
+272,Wireless Bluetooth Earbuds,Amit,5,Great purchase! The Wireless Bluetooth Earbuds is durable and easy to use.,Amazon
+273,Running Shoes,Pooja,5,"Very happy with this Running Shoes, will definitely buy again from this brand.",Amazon
+274,Running Shoes,Neha,5,Impressed by the quality of the Running Shoes. Packaging was also very good.,Amazon
+275,Running Shoes,Nisha,5,Impressed by the quality of the Running Shoes. Packaging was also very good.,Amazon
+276,Laptop Backpack,Suresh,3,"Okay-ish product, the Laptop Backpack performs as expected, nothing more.",Flipkart
+277,Wireless Mouse,Priya,5,"Perfect Wireless Mouse for daily use, no issues at all after a month.",Amazon
+278,Laptop Backpack,Vikram,2,Delivery was late and the Laptop Backpack was defective on arrival. Customer support responded quickly.,Flipkart
+279,Office Chair,Neha,2,The Office Chair arrived damaged and customer service was unhelpful.,Flipkart
+280,LED Desk Lamp,Neha,2,"Really bad LED Desk Lamp, would not recommend to anyone.",Flipkart
+281,Gaming Keyboard,Deepak,4,Amazing value for money. The Gaming Keyboard looks premium and works great.,Flipkart
+282,Wireless Mouse,Arjun,3,"The Wireless Mouse is okay, does the job but nothing special.",Amazon
+283,Power Bank 10000mAh,Nisha,5,Great purchase! The Power Bank 10000mAh is durable and easy to use.,Flipkart
+284,Laptop Backpack,Sneha,1,"Not worth the price, this Laptop Backpack broke on the second day.",Amazon
+285,Wireless Bluetooth Earbuds,Rohit,5,"This Wireless Bluetooth Earbuds is fantastic, exactly as described. Very satisfied customer.",Flipkart
+286,LED Desk Lamp,Sanjay,1,Delivery was late and the LED Desk Lamp was defective on arrival.,Amazon
+287,LED Desk Lamp,Anjali,5,Great purchase! The LED Desk Lamp is durable and easy to use.,Flipkart
+288,Office Chair,Arjun,5,Impressed by the quality of the Office Chair. Packaging was also very good.,Flipkart
+289,Smartwatch,Kavya,3,"Decent Smartwatch for the price, some minor issues but usable.",Flipkart
+290,Wireless Mouse,Pooja,5,"Superb product! The Wireless Mouse exceeded my expectations, five stars.",Flipkart
+291,Bluetooth Speaker,Karan,5,Impressed by the quality of the Bluetooth Speaker. Packaging was also very good.,Flipkart
+292,Wireless Mouse,Rahul,1,"Terrible experience, the Wireless Mouse does not match the product description.",Flipkart
+293,Office Chair,Arjun,5,"Very happy with this Office Chair, will definitely buy again from this brand. Customer support responded quickly.",Flipkart
+294,Laptop Backpack,Sanjay,5,"Perfect Laptop Backpack for daily use, no issues at all after a month.",Amazon
+295,Cotton T-Shirt,Riya,5,"Excellent quality Cotton T-Shirt, totally worth the price. Highly recommended!",Amazon
+296,Cotton T-Shirt,Riya,1,Very disappointed with this Cotton T-Shirt. Stopped working within a week.,Flipkart
+297,Cotton T-Shirt,Priya,5,"Very happy with this Cotton T-Shirt, will definitely buy again from this brand.",Amazon
+298,Cotton T-Shirt,Anjali,1,"Really bad Cotton T-Shirt, would not recommend to anyone.",Flipkart
+299,Office Chair,Anjali,2,Very disappointed with this Office Chair. Stopped working within a week.,Flipkart
+300,Office Chair,Suresh,4,"Very happy with this Office Chair, will definitely buy again from this brand.",Flipkart
+301,Kitchen Mixer Grinder,Vikram,3,"Reasonable Kitchen Mixer Grinder, matches the description mostly.",Flipkart
+302,Bluetooth Speaker,Arjun,5,"Excellent quality Bluetooth Speaker, totally worth the price. Highly recommended! Not sure if I will repurchase.",Amazon
+303,Wireless Bluetooth Earbuds,Karan,1,"Terrible experience, the Wireless Bluetooth Earbuds does not match the product description.",Flipkart
+304,LED Desk Lamp,Riya,4,"This LED Desk Lamp is fantastic, exactly as described. Very satisfied customer. Packaging was neat.",Flipkart
+305,Office Chair,Suresh,5,"Very happy with this Office Chair, will definitely buy again from this brand. Would consider buying again.",Flipkart
+306,Air Fryer,Kavya,2,Very disappointed with this Air Fryer. Stopped working within a week.,Amazon
+307,Cotton T-Shirt,Sanjay,5,"Very happy with this Cotton T-Shirt, will definitely buy again from this brand.",Flipkart
+308,Power Bank 10000mAh,Kavya,5,"Very happy with this Power Bank 10000mAh, will definitely buy again from this brand.",Amazon
+309,Kitchen Mixer Grinder,Isha,5,"Perfect Kitchen Mixer Grinder for daily use, no issues at all after a month.",Flipkart
+310,Wireless Mouse,Nisha,5,"Superb product! The Wireless Mouse exceeded my expectations, five stars.",Amazon
+311,LED Desk Lamp,Sneha,4,Amazing value for money. The LED Desk Lamp looks premium and works great.,Amazon
+312,Gaming Keyboard,Vikram,5,Impressed by the quality of the Gaming Keyboard. Packaging was also very good.,Amazon
+313,USB-C Charging Cable,Deepak,3,"Reasonable USB-C Charging Cable, matches the description mostly. Packaging was neat.",Flipkart
+314,Smartphone Back Cover,Manoj,3,"Reasonable Smartphone Back Cover, matches the description mostly.",Amazon
+315,LED Desk Lamp,Neha,4,"Perfect LED Desk Lamp for daily use, no issues at all after a month.",Amazon
+316,Running Shoes,Priya,5,Absolutely loved this Running Shoes! Works perfectly and arrived on time.,Flipkart
+317,USB-C Charging Cable,Rahul,1,"Really bad USB-C Charging Cable, would not recommend to anyone.",Flipkart
+318,Wireless Bluetooth Earbuds,Divya,5,Best Wireless Bluetooth Earbuds I have bought online. Great build quality and fast delivery.,Flipkart
+319,Office Chair,Isha,5,"This Office Chair is fantastic, exactly as described. Very satisfied customer.",Amazon
+320,Cotton T-Shirt,Karan,3,"Average Cotton T-Shirt, quality is decent for the price range. Customer support responded quickly.",Amazon
+321,Power Bank 10000mAh,Neha,3,"The Power Bank 10000mAh is okay, does the job but nothing special.",Flipkart
+322,Cotton T-Shirt,Kavya,2,"I regret buying this Cotton T-Shirt, it stopped functioning after few uses.",Flipkart
+323,USB-C Charging Cable,Divya,4,"Superb product! The USB-C Charging Cable exceeded my expectations, five stars.",Amazon
+324,Smartwatch,Priya,4,"Excellent quality Smartwatch, totally worth the price. Highly recommended!",Amazon
+325,Power Bank 10000mAh,Priya,5,Great purchase! The Power Bank 10000mAh is durable and easy to use.,Amazon
+326,LED Desk Lamp,Deepak,3,"The LED Desk Lamp works fine, though delivery took longer than expected.",Flipkart
+327,Air Fryer,Vikram,1,"Poor build quality, the Air Fryer feels cheap and flimsy.",Amazon
+328,Running Shoes,Divya,5,Absolutely loved this Running Shoes! Works perfectly and arrived on time.,Flipkart
+329,Wireless Bluetooth Earbuds,Suresh,3,"Okay-ish product, the Wireless Bluetooth Earbuds performs as expected, nothing more.",Flipkart
+330,Running Shoes,Riya,5,"This Running Shoes is fantastic, exactly as described. Very satisfied customer.",Amazon
+331,Gaming Keyboard,Isha,5,Best Gaming Keyboard I have bought online. Great build quality and fast delivery.,Flipkart
+332,Running Shoes,Suresh,2,The Running Shoes arrived damaged and customer service was unhelpful. Packaging was neat.,Amazon
+333,Office Chair,Rohit,4,Amazing value for money. The Office Chair looks premium and works great.,Amazon
+334,Bluetooth Speaker,Rohit,4,"Perfect Bluetooth Speaker for daily use, no issues at all after a month.",Amazon
+335,Kitchen Mixer Grinder,Amit,5,Amazing value for money. The Kitchen Mixer Grinder looks premium and works great.,Amazon
+336,Office Chair,Nisha,5,"Excellent quality Office Chair, totally worth the price. Highly recommended!",Amazon
+337,Running Shoes,Karan,3,"The Running Shoes is average, packaging could have been better.",Flipkart
+338,LED Desk Lamp,Riya,2,"Terrible experience, the LED Desk Lamp does not match the product description.",Flipkart
+339,Smartphone Back Cover,Pooja,2,Delivery was late and the Smartphone Back Cover was defective on arrival.,Flipkart
+340,Running Shoes,Deepak,5,"Superb product! The Running Shoes exceeded my expectations, five stars. Customer support responded quickly.",Flipkart
+341,Bluetooth Speaker,Kavya,5,Amazing value for money. The Bluetooth Speaker looks premium and works great.,Flipkart
+342,LED Desk Lamp,Riya,2,"Poor build quality, the LED Desk Lamp feels cheap and flimsy.",Flipkart
+343,Kitchen Mixer Grinder,Riya,5,Amazing value for money. The Kitchen Mixer Grinder looks premium and works great. Customer support responded quickly.,Amazon
+344,Office Chair,Rahul,3,"The Office Chair is okay, does the job but nothing special.",Amazon
+345,Wireless Mouse,Amit,5,Best Wireless Mouse I have bought online. Great build quality and fast delivery. Packaging was neat.,Amazon
+346,LED Desk Lamp,Amit,5,Absolutely loved this LED Desk Lamp! Works perfectly and arrived on time.,Amazon
+347,LED Desk Lamp,Arjun,1,Very disappointed with this LED Desk Lamp. Stopped working within a week.,Flipkart
+348,Wireless Bluetooth Earbuds,Sanjay,5,"This Wireless Bluetooth Earbuds is fantastic, exactly as described. Very satisfied customer. Shipping was quick.",Amazon
+349,Smartwatch,Arjun,5,Impressed by the quality of the Smartwatch. Packaging was also very good.,Flipkart
+350,Smartphone Back Cover,Kavya,5,"This Smartphone Back Cover is fantastic, exactly as described. Very satisfied customer.",Flipkart
+351,Cotton T-Shirt,Karan,1,"Waste of money, the Cotton T-Shirt quality is really poor. Not sure if I will repurchase.",Flipkart
+352,Wireless Bluetooth Earbuds,Divya,1,The Wireless Bluetooth Earbuds arrived damaged and customer service was unhelpful.,Flipkart
+353,Air Fryer,Priya,3,"Average Air Fryer, quality is decent for the price range.",Amazon
+354,Smartwatch,Rahul,3,"Reasonable Smartwatch, matches the description mostly.",Flipkart
+355,Office Chair,Suresh,5,Absolutely loved this Office Chair! Works perfectly and arrived on time.,Amazon
+356,Smartwatch,Deepak,1,"I regret buying this Smartwatch, it stopped functioning after few uses.",Amazon
+357,Air Fryer,Vikram,2,"I regret buying this Air Fryer, it stopped functioning after few uses.",Amazon
+358,LED Desk Lamp,Rahul,1,"Poor build quality, the LED Desk Lamp feels cheap and flimsy. Packaging was neat.",Flipkart
+359,Air Fryer,Suresh,2,"The Air Fryer is a total scam, completely different from the pictures.",Amazon
+360,Cotton T-Shirt,Karan,5,Great purchase! The Cotton T-Shirt is durable and easy to use. Customer support responded quickly.,Flipkart
+361,Laptop Backpack,Neha,1,"I regret buying this Laptop Backpack, it stopped functioning after few uses.",Amazon
+362,Power Bank 10000mAh,Vikram,5,"Very happy with this Power Bank 10000mAh, will definitely buy again from this brand.",Flipkart
+363,USB-C Charging Cable,Manoj,4,"Excellent quality USB-C Charging Cable, totally worth the price. Highly recommended!",Flipkart
+364,Wireless Mouse,Isha,4,Best Wireless Mouse I have bought online. Great build quality and fast delivery. Not sure if I will repurchase.,Flipkart
+365,Smartphone Back Cover,Suresh,4,Amazing value for money. The Smartphone Back Cover looks premium and works great.,Flipkart
+366,Wireless Bluetooth Earbuds,Isha,4,"This Wireless Bluetooth Earbuds is fantastic, exactly as described. Very satisfied customer.",Amazon
+367,Air Fryer,Arjun,5,"This Air Fryer is fantastic, exactly as described. Very satisfied customer. Would consider buying again.",Flipkart
+368,Laptop Backpack,Riya,5,"This Laptop Backpack is fantastic, exactly as described. Very satisfied customer.",Amazon
+369,USB-C Charging Cable,Rohit,5,"Superb product! The USB-C Charging Cable exceeded my expectations, five stars.",Flipkart
+370,Smartphone Back Cover,Nisha,5,Absolutely loved this Smartphone Back Cover! Works perfectly and arrived on time.,Flipkart
+371,Wireless Mouse,Nisha,3,"Reasonable Wireless Mouse, matches the description mostly.",Amazon
+372,Bluetooth Speaker,Karan,5,"Superb product! The Bluetooth Speaker exceeded my expectations, five stars.",Flipkart
+373,Bluetooth Speaker,Arjun,1,Delivery was late and the Bluetooth Speaker was defective on arrival.,Flipkart
+374,USB-C Charging Cable,Isha,5,"Perfect USB-C Charging Cable for daily use, no issues at all after a month.",Amazon
+375,Cotton T-Shirt,Rohit,2,Very disappointed with this Cotton T-Shirt. Stopped working within a week.,Flipkart
+376,Wireless Mouse,Vikram,5,"Excellent quality Wireless Mouse, totally worth the price. Highly recommended!",Flipkart
+377,Smartwatch,Rahul,5,Best Smartwatch I have bought online. Great build quality and fast delivery.,Flipkart
+378,Air Fryer,Pooja,5,"This Air Fryer is fantastic, exactly as described. Very satisfied customer.",Amazon
+379,Smartphone Back Cover,Priya,1,"Poor build quality, the Smartphone Back Cover feels cheap and flimsy.",Flipkart
+380,Wireless Mouse,Kavya,4,"This Wireless Mouse is fantastic, exactly as described. Very satisfied customer. Would consider buying again.",Amazon
+381,Kitchen Mixer Grinder,Amit,5,Great purchase! The Kitchen Mixer Grinder is durable and easy to use.,Flipkart
+382,Smartphone Back Cover,Vikram,4,"Excellent quality Smartphone Back Cover, totally worth the price. Highly recommended!",Flipkart
+383,Bluetooth Speaker,Sneha,5,"Superb product! The Bluetooth Speaker exceeded my expectations, five stars.",Flipkart
+384,Power Bank 10000mAh,Sneha,1,"Poor build quality, the Power Bank 10000mAh feels cheap and flimsy.",Amazon
+385,Gaming Keyboard,Kavya,5,"Excellent quality Gaming Keyboard, totally worth the price. Highly recommended!",Amazon
+386,LED Desk Lamp,Kavya,5,Impressed by the quality of the LED Desk Lamp. Packaging was also very good.,Flipkart
+387,Cotton T-Shirt,Rohit,5,"This Cotton T-Shirt is fantastic, exactly as described. Very satisfied customer. Customer support responded quickly.",Flipkart
+388,Air Fryer,Rahul,5,Absolutely loved this Air Fryer! Works perfectly and arrived on time.,Amazon
+389,Wireless Mouse,Rohit,3,"It's a fine Wireless Mouse, met basic expectations, could be better.",Flipkart
+390,Smartphone Back Cover,Nisha,5,Great purchase! The Smartphone Back Cover is durable and easy to use.,Flipkart
+391,Air Fryer,Neha,5,Amazing value for money. The Air Fryer looks premium and works great.,Amazon
+392,Cotton T-Shirt,Anjali,5,"Excellent quality Cotton T-Shirt, totally worth the price. Highly recommended!",Flipkart
+393,Power Bank 10000mAh,Deepak,5,"This Power Bank 10000mAh is fantastic, exactly as described. Very satisfied customer.",Flipkart
+394,Running Shoes,Riya,5,Impressed by the quality of the Running Shoes. Packaging was also very good.,Flipkart
+395,Laptop Backpack,Amit,4,Great purchase! The Laptop Backpack is durable and easy to use.,Flipkart
+396,Laptop Backpack,Riya,5,"This Laptop Backpack is fantastic, exactly as described. Very satisfied customer.",Flipkart
+397,Power Bank 10000mAh,Kavya,1,Delivery was late and the Power Bank 10000mAh was defective on arrival. Shipping was quick.,Flipkart
+398,Wireless Bluetooth Earbuds,Deepak,5,Impressed by the quality of the Wireless Bluetooth Earbuds. Packaging was also very good. Not sure if I will repurchase.,Flipkart
+399,LED Desk Lamp,Isha,4,"Perfect LED Desk Lamp for daily use, no issues at all after a month.",Flipkart
+400,LED Desk Lamp,Divya,2,Very disappointed with this LED Desk Lamp. Stopped working within a week.,Amazon
+401,Power Bank 10000mAh,Priya,2,"Not worth the price, this Power Bank 10000mAh broke on the second day.",Flipkart
+402,Bluetooth Speaker,Sneha,5,"Excellent quality Bluetooth Speaker, totally worth the price. Highly recommended!",Amazon
+403,Smartwatch,Nisha,2,"The Smartwatch is a total scam, completely different from the pictures.",Flipkart
+404,Laptop Backpack,Deepak,1,"Not worth the price, this Laptop Backpack broke on the second day.",Flipkart
+405,LED Desk Lamp,Neha,5,Impressed by the quality of the LED Desk Lamp. Packaging was also very good.,Flipkart
+406,Air Fryer,Priya,4,Impressed by the quality of the Air Fryer. Packaging was also very good. Not sure if I will repurchase.,Flipkart
+407,Gaming Keyboard,Kavya,1,The Gaming Keyboard arrived damaged and customer service was unhelpful. Would consider buying again.,Flipkart
+408,Kitchen Mixer Grinder,Rahul,5,"Very happy with this Kitchen Mixer Grinder, will definitely buy again from this brand.",Amazon
+409,Running Shoes,Riya,5,"Very happy with this Running Shoes, will definitely buy again from this brand.",Flipkart
+410,Air Fryer,Pooja,5,"Excellent quality Air Fryer, totally worth the price. Highly recommended!",Amazon
+411,Wireless Mouse,Riya,5,"Superb product! The Wireless Mouse exceeded my expectations, five stars.",Flipkart
+412,USB-C Charging Cable,Riya,1,"Poor build quality, the USB-C Charging Cable feels cheap and flimsy.",Flipkart
+413,Office Chair,Amit,1,Very disappointed with this Office Chair. Stopped working within a week. Not sure if I will repurchase.,Amazon
+414,Office Chair,Divya,3,"Reasonable Office Chair, matches the description mostly.",Amazon
+415,Power Bank 10000mAh,Rahul,3,"Decent Power Bank 10000mAh for the price, some minor issues but usable. Would consider buying again.",Flipkart
+416,Bluetooth Speaker,Neha,4,Best Bluetooth Speaker I have bought online. Great build quality and fast delivery.,Amazon
+417,Running Shoes,Vikram,1,"Waste of money, the Running Shoes quality is really poor. Shipping was quick.",Amazon
+418,LED Desk Lamp,Sneha,1,Very disappointed with this LED Desk Lamp. Stopped working within a week.,Flipkart
+419,Power Bank 10000mAh,Sneha,5,"Excellent quality Power Bank 10000mAh, totally worth the price. Highly recommended!",Amazon
+420,USB-C Charging Cable,Vikram,5,"Very happy with this USB-C Charging Cable, will definitely buy again from this brand.",Amazon
+421,Smartphone Back Cover,Rohit,5,Absolutely loved this Smartphone Back Cover! Works perfectly and arrived on time.,Amazon
+422,Office Chair,Vikram,5,Great purchase! The Office Chair is durable and easy to use. Shipping was quick.,Amazon
+423,Air Fryer,Vikram,2,"Poor build quality, the Air Fryer feels cheap and flimsy.",Amazon
+424,Bluetooth Speaker,Amit,2,"Not worth the price, this Bluetooth Speaker broke on the second day.",Flipkart
+425,Smartwatch,Neha,5,Impressed by the quality of the Smartwatch. Packaging was also very good.,Amazon
+426,Wireless Mouse,Sneha,3,"The Wireless Mouse works fine, though delivery took longer than expected.",Amazon
+427,Kitchen Mixer Grinder,Suresh,1,"Waste of money, the Kitchen Mixer Grinder quality is really poor.",Amazon
+428,Running Shoes,Anjali,3,"Okay-ish product, the Running Shoes performs as expected, nothing more.",Flipkart
+429,Wireless Mouse,Priya,4,"Perfect Wireless Mouse for daily use, no issues at all after a month. Packaging was neat.",Amazon
+430,Wireless Mouse,Karan,5,"Very happy with this Wireless Mouse, will definitely buy again from this brand.",Amazon
+431,Cotton T-Shirt,Neha,5,"Perfect Cotton T-Shirt for daily use, no issues at all after a month.",Amazon
+432,LED Desk Lamp,Karan,3,"It's a fine LED Desk Lamp, met basic expectations, could be better.",Amazon
+433,Bluetooth Speaker,Sneha,1,"Not worth the price, this Bluetooth Speaker broke on the second day. Not sure if I will repurchase.",Flipkart
+434,Air Fryer,Vikram,1,"Terrible experience, the Air Fryer does not match the product description.",Amazon
+435,Laptop Backpack,Arjun,5,Amazing value for money. The Laptop Backpack looks premium and works great. Packaging was neat.,Amazon
+436,Wireless Mouse,Arjun,3,"The Wireless Mouse is average, packaging could have been better.",Amazon
+437,Bluetooth Speaker,Sanjay,1,"The Bluetooth Speaker is a total scam, completely different from the pictures.",Flipkart
+438,Wireless Bluetooth Earbuds,Arjun,5,"Perfect Wireless Bluetooth Earbuds for daily use, no issues at all after a month.",Amazon
+439,Office Chair,Amit,1,"Waste of money, the Office Chair quality is really poor.",Amazon
+440,Gaming Keyboard,Karan,3,"The Gaming Keyboard works fine, though delivery took longer than expected. Would consider buying again.",Amazon
+441,Laptop Backpack,Divya,3,"The Laptop Backpack is okay, does the job but nothing special.",Amazon
+442,USB-C Charging Cable,Deepak,5,Amazing value for money. The USB-C Charging Cable looks premium and works great.,Flipkart
+443,Smartphone Back Cover,Priya,5,Absolutely loved this Smartphone Back Cover! Works perfectly and arrived on time. Customer support responded quickly.,Flipkart
+444,Smartphone Back Cover,Neha,3,"Decent Smartphone Back Cover for the price, some minor issues but usable.",Flipkart
+445,Smartphone Back Cover,Neha,2,Very disappointed with this Smartphone Back Cover. Stopped working within a week. Customer support responded quickly.,Amazon
+446,Kitchen Mixer Grinder,Isha,5,Great purchase! The Kitchen Mixer Grinder is durable and easy to use.,Amazon
+447,Laptop Backpack,Amit,4,"This Laptop Backpack is fantastic, exactly as described. Very satisfied customer. Would consider buying again.",Flipkart
+448,Wireless Bluetooth Earbuds,Kavya,2,"I regret buying this Wireless Bluetooth Earbuds, it stopped functioning after few uses. Customer support responded quickly.",Flipkart
+449,Kitchen Mixer Grinder,Rahul,3,"It's a fine Kitchen Mixer Grinder, met basic expectations, could be better.",Amazon
+450,Office Chair,Pooja,5,Impressed by the quality of the Office Chair. Packaging was also very good.,Flipkart
+451,Power Bank 10000mAh,Karan,5,"Excellent quality Power Bank 10000mAh, totally worth the price. Highly recommended!",Amazon
+452,Air Fryer,Suresh,1,"I regret buying this Air Fryer, it stopped functioning after few uses. Would consider buying again.",Flipkart
+453,Power Bank 10000mAh,Kavya,2,"Poor build quality, the Power Bank 10000mAh feels cheap and flimsy.",Amazon
+454,Smartwatch,Manoj,4,"Perfect Smartwatch for daily use, no issues at all after a month. Packaging was neat.",Flipkart
+455,USB-C Charging Cable,Rohit,5,Impressed by the quality of the USB-C Charging Cable. Packaging was also very good.,Flipkart
+456,Bluetooth Speaker,Neha,4,"Excellent quality Bluetooth Speaker, totally worth the price. Highly recommended!",Amazon
+457,Smartwatch,Pooja,1,"Poor build quality, the Smartwatch feels cheap and flimsy. Packaging was neat.",Flipkart
+458,LED Desk Lamp,Anjali,5,"Very happy with this LED Desk Lamp, will definitely buy again from this brand.",Amazon
+459,Running Shoes,Vikram,3,"The Running Shoes works fine, though delivery took longer than expected. Shipping was quick.",Amazon
+460,Wireless Bluetooth Earbuds,Pooja,5,"Superb product! The Wireless Bluetooth Earbuds exceeded my expectations, five stars. Not sure if I will repurchase.",Amazon
+461,Air Fryer,Rohit,1,"Waste of money, the Air Fryer quality is really poor.",Flipkart
+462,Wireless Mouse,Priya,4,Amazing value for money. The Wireless Mouse looks premium and works great. Not sure if I will repurchase.,Amazon
+463,Office Chair,Divya,2,"I regret buying this Office Chair, it stopped functioning after few uses.",Amazon
+464,USB-C Charging Cable,Vikram,5,Best USB-C Charging Cable I have bought online. Great build quality and fast delivery.,Amazon
+465,Air Fryer,Isha,2,"Not worth the price, this Air Fryer broke on the second day.",Flipkart
+466,Wireless Bluetooth Earbuds,Sanjay,5,"This Wireless Bluetooth Earbuds is fantastic, exactly as described. Very satisfied customer.",Amazon
+467,Cotton T-Shirt,Pooja,3,"The Cotton T-Shirt is okay, does the job but nothing special.",Flipkart
+468,LED Desk Lamp,Anjali,2,"Poor build quality, the LED Desk Lamp feels cheap and flimsy.",Amazon
+469,USB-C Charging Cable,Sanjay,2,Very disappointed with this USB-C Charging Cable. Stopped working within a week. Not sure if I will repurchase.,Flipkart
+470,Wireless Mouse,Kavya,1,"Not worth the price, this Wireless Mouse broke on the second day.",Flipkart
+471,LED Desk Lamp,Karan,1,Very disappointed with this LED Desk Lamp. Stopped working within a week.,Flipkart
+472,Office Chair,Pooja,1,The Office Chair arrived damaged and customer service was unhelpful. Would consider buying again.,Amazon
+473,Power Bank 10000mAh,Rohit,1,"The Power Bank 10000mAh is a total scam, completely different from the pictures.",Flipkart
+474,LED Desk Lamp,Nisha,4,Great purchase! The LED Desk Lamp is durable and easy to use. Packaging was neat.,Amazon
+475,Wireless Bluetooth Earbuds,Rohit,5,Absolutely loved this Wireless Bluetooth Earbuds! Works perfectly and arrived on time.,Amazon
+476,USB-C Charging Cable,Vikram,1,"Poor build quality, the USB-C Charging Cable feels cheap and flimsy. Customer support responded quickly.",Amazon
+477,Gaming Keyboard,Karan,4,Amazing value for money. The Gaming Keyboard looks premium and works great.,Amazon
+478,USB-C Charging Cable,Divya,5,Best USB-C Charging Cable I have bought online. Great build quality and fast delivery.,Flipkart
+479,Cotton T-Shirt,Anjali,5,Impressed by the quality of the Cotton T-Shirt. Packaging was also very good. Customer support responded quickly.,Flipkart
+480,Bluetooth Speaker,Deepak,1,"Terrible experience, the Bluetooth Speaker does not match the product description. Shipping was quick.",Flipkart
+481,Gaming Keyboard,Nisha,3,"The Gaming Keyboard is okay, does the job but nothing special. Would consider buying again.",Amazon
+482,Cotton T-Shirt,Rahul,1,Delivery was late and the Cotton T-Shirt was defective on arrival.,Amazon
+483,USB-C Charging Cable,Rahul,3,"It's a fine USB-C Charging Cable, met basic expectations, could be better.",Flipkart
+484,Kitchen Mixer Grinder,Pooja,5,"Superb product! The Kitchen Mixer Grinder exceeded my expectations, five stars.",Flipkart
+485,Wireless Mouse,Divya,4,Absolutely loved this Wireless Mouse! Works perfectly and arrived on time.,Amazon
+486,Office Chair,Sneha,5,"This Office Chair is fantastic, exactly as described. Very satisfied customer.",Flipkart
+487,Wireless Mouse,Priya,3,"The Wireless Mouse works fine, though delivery took longer than expected. Shipping was quick.",Flipkart
+488,Wireless Bluetooth Earbuds,Karan,4,"Excellent quality Wireless Bluetooth Earbuds, totally worth the price. Highly recommended!",Amazon
+489,Power Bank 10000mAh,Nisha,5,"Excellent quality Power Bank 10000mAh, totally worth the price. Highly recommended!",Flipkart
+490,Power Bank 10000mAh,Suresh,5,Best Power Bank 10000mAh I have bought online. Great build quality and fast delivery. Shipping was quick.,Amazon
+491,Smartwatch,Neha,5,Impressed by the quality of the Smartwatch. Packaging was also very good.,Amazon
+492,Smartphone Back Cover,Amit,5,"Perfect Smartphone Back Cover for daily use, no issues at all after a month. Would consider buying again.",Flipkart
+493,Smartphone Back Cover,Rohit,5,"Perfect Smartphone Back Cover for daily use, no issues at all after a month. Shipping was quick.",Amazon
+494,Cotton T-Shirt,Neha,5,"Excellent quality Cotton T-Shirt, totally worth the price. Highly recommended!",Flipkart
+495,Kitchen Mixer Grinder,Karan,4,"Very happy with this Kitchen Mixer Grinder, will definitely buy again from this brand.",Amazon
+496,USB-C Charging Cable,Arjun,3,"The USB-C Charging Cable is average, packaging could have been better. Shipping was quick.",Flipkart
+497,Kitchen Mixer Grinder,Sneha,4,"Very happy with this Kitchen Mixer Grinder, will definitely buy again from this brand.",Amazon
+498,Cotton T-Shirt,Deepak,5,Impressed by the quality of the Cotton T-Shirt. Packaging was also very good.,Amazon
+499,LED Desk Lamp,Riya,5,"This LED Desk Lamp is fantastic, exactly as described. Very satisfied customer.",Amazon
+500,Kitchen Mixer Grinder,Sanjay,4,"This Kitchen Mixer Grinder is fantastic, exactly as described. Very satisfied customer.",Amazon
+501,Smartphone Back Cover,Rohit,3,"Reasonable Smartphone Back Cover, matches the description mostly. Packaging was neat.",Amazon
+502,Laptop Backpack,Vikram,5,"Excellent quality Laptop Backpack, totally worth the price. Highly recommended!",Flipkart
+503,USB-C Charging Cable,Karan,3,"Average USB-C Charging Cable, quality is decent for the price range. Customer support responded quickly.",Flipkart
+504,Gaming Keyboard,Nisha,4,Great purchase! The Gaming Keyboard is durable and easy to use.,Flipkart
+505,Smartphone Back Cover,Deepak,4,Best Smartphone Back Cover I have bought online. Great build quality and fast delivery.,Amazon
+506,Wireless Mouse,Arjun,5,Impressed by the quality of the Wireless Mouse. Packaging was also very good.,Flipkart
+507,Cotton T-Shirt,Karan,5,"Perfect Cotton T-Shirt for daily use, no issues at all after a month. Would consider buying again.",Amazon
+508,Air Fryer,Suresh,1,"I regret buying this Air Fryer, it stopped functioning after few uses.",Amazon
+509,Wireless Bluetooth Earbuds,Neha,2,"Terrible experience, the Wireless Bluetooth Earbuds does not match the product description. Would consider buying again.",Flipkart
+510,Gaming Keyboard,Manoj,5,"Excellent quality Gaming Keyboard, totally worth the price. Highly recommended!",Flipkart
+511,Bluetooth Speaker,Divya,1,"The Bluetooth Speaker is a total scam, completely different from the pictures. Packaging was neat.",Flipkart
+512,Wireless Mouse,Anjali,4,Amazing value for money. The Wireless Mouse looks premium and works great.,Amazon
+513,Bluetooth Speaker,Sanjay,1,"I regret buying this Bluetooth Speaker, it stopped functioning after few uses.",Amazon
+514,Laptop Backpack,Priya,4,"Superb product! The Laptop Backpack exceeded my expectations, five stars. Not sure if I will repurchase.",Flipkart
+515,Power Bank 10000mAh,Sneha,5,Amazing value for money. The Power Bank 10000mAh looks premium and works great.,Amazon
+516,Smartwatch,Deepak,5,"Perfect Smartwatch for daily use, no issues at all after a month. Not sure if I will repurchase.",Flipkart
+517,USB-C Charging Cable,Karan,4,"Very happy with this USB-C Charging Cable, will definitely buy again from this brand.",Amazon
+518,Laptop Backpack,Kavya,3,"The Laptop Backpack works fine, though delivery took longer than expected.",Amazon
+519,Bluetooth Speaker,Amit,1,"Really bad Bluetooth Speaker, would not recommend to anyone.",Flipkart
+520,Office Chair,Neha,4,Best Office Chair I have bought online. Great build quality and fast delivery. Customer support responded quickly.,Flipkart
+521,Running Shoes,Rohit,3,"The Running Shoes is average, packaging could have been better.",Flipkart
+522,Bluetooth Speaker,Amit,2,"The Bluetooth Speaker is a total scam, completely different from the pictures.",Flipkart
+523,LED Desk Lamp,Sneha,2,"The LED Desk Lamp is a total scam, completely different from the pictures.",Flipkart
+524,Smartphone Back Cover,Arjun,5,"Very happy with this Smartphone Back Cover, will definitely buy again from this brand.",Flipkart
+525,Smartwatch,Nisha,4,"Superb product! The Smartwatch exceeded my expectations, five stars.",Flipkart
+526,Cotton T-Shirt,Neha,4,Best Cotton T-Shirt I have bought online. Great build quality and fast delivery.,Flipkart
+527,Office Chair,Deepak,4,"This Office Chair is fantastic, exactly as described. Very satisfied customer.",Amazon
+528,USB-C Charging Cable,Pooja,2,"Not worth the price, this USB-C Charging Cable broke on the second day.",Flipkart
+529,Gaming Keyboard,Riya,5,Impressed by the quality of the Gaming Keyboard. Packaging was also very good.,Amazon
+530,Power Bank 10000mAh,Suresh,5,Impressed by the quality of the Power Bank 10000mAh. Packaging was also very good.,Amazon
+531,Smartwatch,Suresh,5,"Very happy with this Smartwatch, will definitely buy again from this brand.",Flipkart
+532,Bluetooth Speaker,Deepak,1,Delivery was late and the Bluetooth Speaker was defective on arrival.,Amazon
+533,Kitchen Mixer Grinder,Karan,3,"Average Kitchen Mixer Grinder, quality is decent for the price range.",Flipkart
+534,Running Shoes,Suresh,5,Best Running Shoes I have bought online. Great build quality and fast delivery.,Flipkart
+535,Air Fryer,Anjali,3,"Reasonable Air Fryer, matches the description mostly.",Amazon
+536,Kitchen Mixer Grinder,Amit,5,Best Kitchen Mixer Grinder I have bought online. Great build quality and fast delivery.,Flipkart
+537,Bluetooth Speaker,Rahul,5,Best Bluetooth Speaker I have bought online. Great build quality and fast delivery.,Amazon
+538,Air Fryer,Riya,5,"This Air Fryer is fantastic, exactly as described. Very satisfied customer.",Flipkart
+539,Wireless Bluetooth Earbuds,Suresh,5,"Superb product! The Wireless Bluetooth Earbuds exceeded my expectations, five stars.",Amazon
+540,Wireless Bluetooth Earbuds,Pooja,1,"Not worth the price, this Wireless Bluetooth Earbuds broke on the second day.",Flipkart
+541,Laptop Backpack,Neha,5,Impressed by the quality of the Laptop Backpack. Packaging was also very good. Shipping was quick.,Flipkart
+542,Kitchen Mixer Grinder,Vikram,2,"The Kitchen Mixer Grinder is a total scam, completely different from the pictures.",Flipkart
+543,Office Chair,Karan,5,"Superb product! The Office Chair exceeded my expectations, five stars.",Amazon
+544,Smartwatch,Deepak,5,Best Smartwatch I have bought online. Great build quality and fast delivery.,Amazon
+545,Smartphone Back Cover,Arjun,5,Absolutely loved this Smartphone Back Cover! Works perfectly and arrived on time.,Amazon
+546,Air Fryer,Amit,3,"Average Air Fryer, quality is decent for the price range.",Amazon
+547,Power Bank 10000mAh,Riya,5,Great purchase! The Power Bank 10000mAh is durable and easy to use. Would consider buying again.,Amazon
+548,Smartwatch,Sneha,2,Very disappointed with this Smartwatch. Stopped working within a week.,Flipkart
+549,Air Fryer,Sneha,2,The Air Fryer arrived damaged and customer service was unhelpful.,Amazon
+550,Bluetooth Speaker,Arjun,5,"Excellent quality Bluetooth Speaker, totally worth the price. Highly recommended! Packaging was neat.",Amazon
+551,USB-C Charging Cable,Rohit,1,"Terrible experience, the USB-C Charging Cable does not match the product description. Not sure if I will repurchase.",Flipkart
+552,USB-C Charging Cable,Deepak,4,Absolutely loved this USB-C Charging Cable! Works perfectly and arrived on time.,Flipkart
+553,Laptop Backpack,Sneha,3,"Average Laptop Backpack, quality is decent for the price range.",Flipkart
+554,Cotton T-Shirt,Sneha,5,"Very happy with this Cotton T-Shirt, will definitely buy again from this brand.",Amazon
+555,Gaming Keyboard,Suresh,5,"Very happy with this Gaming Keyboard, will definitely buy again from this brand.",Flipkart
+556,Power Bank 10000mAh,Anjali,4,Absolutely loved this Power Bank 10000mAh! Works perfectly and arrived on time.,Flipkart
+557,USB-C Charging Cable,Rahul,3,"Decent USB-C Charging Cable for the price, some minor issues but usable.",Flipkart
+558,Gaming Keyboard,Manoj,5,"Excellent quality Gaming Keyboard, totally worth the price. Highly recommended!",Flipkart
+559,Gaming Keyboard,Anjali,5,Great purchase! The Gaming Keyboard is durable and easy to use.,Amazon
+560,Laptop Backpack,Riya,1,Very disappointed with this Laptop Backpack. Stopped working within a week. Customer support responded quickly.,Flipkart
+561,Laptop Backpack,Vikram,1,"Poor build quality, the Laptop Backpack feels cheap and flimsy.",Flipkart
+562,Office Chair,Suresh,5,"This Office Chair is fantastic, exactly as described. Very satisfied customer. Would consider buying again.",Amazon
+563,Power Bank 10000mAh,Suresh,3,"The Power Bank 10000mAh works fine, though delivery took longer than expected.",Amazon
+564,Running Shoes,Karan,2,"Not worth the price, this Running Shoes broke on the second day.",Amazon
+565,Gaming Keyboard,Sanjay,1,"The Gaming Keyboard is a total scam, completely different from the pictures. Packaging was neat.",Flipkart
+566,Gaming Keyboard,Suresh,4,Best Gaming Keyboard I have bought online. Great build quality and fast delivery.,Amazon
+567,USB-C Charging Cable,Isha,3,"The USB-C Charging Cable is okay, does the job but nothing special.",Flipkart
+568,Running Shoes,Deepak,2,"Waste of money, the Running Shoes quality is really poor.",Flipkart
+569,Smartphone Back Cover,Riya,3,"Reasonable Smartphone Back Cover, matches the description mostly.",Amazon
+570,Smartphone Back Cover,Nisha,4,Absolutely loved this Smartphone Back Cover! Works perfectly and arrived on time.,Flipkart
+571,Office Chair,Pooja,5,"Superb product! The Office Chair exceeded my expectations, five stars.",Amazon
+572,Gaming Keyboard,Nisha,5,Great purchase! The Gaming Keyboard is durable and easy to use.,Flipkart
+573,Power Bank 10000mAh,Kavya,1,Delivery was late and the Power Bank 10000mAh was defective on arrival.,Amazon
+574,USB-C Charging Cable,Priya,5,"Very happy with this USB-C Charging Cable, will definitely buy again from this brand.",Amazon
+575,Kitchen Mixer Grinder,Rohit,4,"This Kitchen Mixer Grinder is fantastic, exactly as described. Very satisfied customer.",Amazon
+576,Smartphone Back Cover,Suresh,3,"Okay-ish product, the Smartphone Back Cover performs as expected, nothing more. Packaging was neat.",Amazon
+577,Wireless Mouse,Manoj,4,"Perfect Wireless Mouse for daily use, no issues at all after a month.",Flipkart
+578,Cotton T-Shirt,Amit,1,"Really bad Cotton T-Shirt, would not recommend to anyone.",Amazon
+579,LED Desk Lamp,Anjali,3,"Reasonable LED Desk Lamp, matches the description mostly.",Amazon
+580,Power Bank 10000mAh,Nisha,2,"Waste of money, the Power Bank 10000mAh quality is really poor.",Flipkart
+581,LED Desk Lamp,Kavya,3,"Okay-ish product, the LED Desk Lamp performs as expected, nothing more.",Flipkart
+582,Running Shoes,Vikram,3,"Decent Running Shoes for the price, some minor issues but usable.",Amazon
+583,Running Shoes,Isha,2,"Really bad Running Shoes, would not recommend to anyone.",Flipkart
+584,Power Bank 10000mAh,Neha,1,"Really bad Power Bank 10000mAh, would not recommend to anyone. Customer support responded quickly.",Flipkart
+585,Office Chair,Pooja,2,The Office Chair arrived damaged and customer service was unhelpful.,Flipkart
+586,Air Fryer,Divya,2,"I regret buying this Air Fryer, it stopped functioning after few uses.",Amazon
+587,LED Desk Lamp,Rohit,5,"This LED Desk Lamp is fantastic, exactly as described. Very satisfied customer. Shipping was quick.",Flipkart
+588,Wireless Mouse,Neha,2,"Terrible experience, the Wireless Mouse does not match the product description. Shipping was quick.",Amazon
+589,Wireless Mouse,Isha,5,Amazing value for money. The Wireless Mouse looks premium and works great.,Amazon
+590,Power Bank 10000mAh,Neha,1,"I regret buying this Power Bank 10000mAh, it stopped functioning after few uses.",Amazon
+591,Office Chair,Priya,5,"This Office Chair is fantastic, exactly as described. Very satisfied customer.",Amazon
+592,Power Bank 10000mAh,Pooja,5,"Perfect Power Bank 10000mAh for daily use, no issues at all after a month.",Amazon
+593,Wireless Mouse,Rahul,2,"Not worth the price, this Wireless Mouse broke on the second day.",Amazon
+594,Laptop Backpack,Isha,2,"Waste of money, the Laptop Backpack quality is really poor. Would consider buying again.",Flipkart
+595,Laptop Backpack,Vikram,4,"Very happy with this Laptop Backpack, will definitely buy again from this brand.",Amazon
+596,Laptop Backpack,Nisha,3,"The Laptop Backpack is okay, does the job but nothing special.",Flipkart
+597,Kitchen Mixer Grinder,Suresh,2,"Really bad Kitchen Mixer Grinder, would not recommend to anyone.",Amazon
+598,Laptop Backpack,Isha,5,Impressed by the quality of the Laptop Backpack. Packaging was also very good.,Flipkart
+599,Smartphone Back Cover,Neha,5,"Superb product! The Smartphone Back Cover exceeded my expectations, five stars.",Amazon
+600,Wireless Mouse,Manoj,1,Delivery was late and the Wireless Mouse was defective on arrival. Would consider buying again.,Amazon
