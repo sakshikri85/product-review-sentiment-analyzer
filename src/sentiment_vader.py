@@ -1,10 +1,3 @@
-"""
-sentiment_vader.py
---------------------
-Rule-based sentiment scoring using NLTK's VADER (great for short,
-informal review text) plus TextBlob polarity as a secondary signal.
-"""
-
 import nltk
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from textblob import TextBlob
