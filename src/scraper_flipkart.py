@@ -1,24 +1,3 @@
-"""
-scraper_flipkart.py
----------------------
-OPTIONAL / BONUS module - best-effort scraper for Flipkart product review
-pages using requests + BeautifulSoup.
-
-IMPORTANT (please read before using):
-  - E-commerce sites change their HTML structure often and actively block
-    scrapers (captchas, rate limits, login walls). This script is a
-    starting point, NOT a guaranteed-working tool.
-  - Scraping may violate a website's Terms of Service - use responsibly,
-    for personal/educational purposes only, and respect robots.txt.
-  - This module is NOT used by main.py's default pipeline (which relies
-    on the bundled/generated dataset) so the core project always runs
-    with zero errors even without internet access or if the site
-    structure changes.
-
-Usage:
-    python src/scraper_flipkart.py "<flipkart_product_review_url>"
-"""
-
 import sys
 import time
 import csv
