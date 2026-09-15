@@ -1,12 +1,3 @@
-"""
-report_generator.py
----------------------
-Creates ONE clean, easy-to-read HTML report (output/report.html) that
-shows all charts + results together with simple explanations.
-Just double-click output/report.html to open it in your browser -
-no coding knowledge needed to read it.
-"""
-
 import os
 import base64
 import pandas as pd
