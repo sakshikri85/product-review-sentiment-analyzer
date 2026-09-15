@@ -1,13 +1,3 @@
-"""
-setup_nltk.py
---------------
-Run this ONCE after installing requirements.txt to download the NLTK
-language data needed by this project (stopwords, tokenizer, lemmatizer,
-VADER sentiment lexicon).
-
-    python setup_nltk.py
-"""
-
 import nltk
 
 PACKAGES = ["stopwords", "wordnet", "omw-1.4", "punkt", "punkt_tab", "vader_lexicon"]
