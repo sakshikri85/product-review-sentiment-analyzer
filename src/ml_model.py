@@ -1,14 +1,3 @@
-"""
-ml_model.py
-------------
-Trains a supervised ML sentiment classifier (TF-IDF + Logistic Regression,
-compared against Multinomial Naive Bayes) using the star-rating as the
-ground-truth label:
-    rating 1-2 -> negative, rating 3 -> neutral, rating 4-5 -> positive
-This demonstrates a classic NLP text-classification pipeline on top of
-the rule-based VADER approach.
-"""
-
 import os
 import joblib
 import pandas as pd
