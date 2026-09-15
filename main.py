@@ -1,23 +1,3 @@
-"""
-main.py
---------
-End-to-end Sentiment Analysis pipeline for product reviews
-(Amazon / Flipkart style dataset).
-
-Steps:
-  1. Load dataset (generates a sample one automatically if missing)
-  2. Preprocess review text (clean, tokenize, lemmatize)
-  3. Rule-based sentiment scoring (VADER + TextBlob)
-  4. Supervised ML sentiment classification (TF-IDF + Logistic
-     Regression / Naive Bayes), trained using star-rating as label
-  5. Visualizations: sentiment distribution, rating distribution,
-     word clouds for positive/negative reviews
-  6. Save final labeled dataset + all charts into output/
-
-Run with:
-    python main.py
-"""
-
 import os
 import sys
 import pandas as pd
