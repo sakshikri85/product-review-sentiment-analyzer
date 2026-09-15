@@ -1,11 +1,3 @@
-"""
-preprocessing.py
------------------
-Basic NLP text preprocessing utilities for cleaning product review text:
-lowercasing, punctuation/number removal, stopword removal, tokenization
-and lemmatization.
-"""
-
 import re
 import string
 
