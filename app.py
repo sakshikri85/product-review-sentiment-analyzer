@@ -1,19 +1,3 @@
-"""
-app.py
--------
-Interactive REAL-TIME web app for the Sentiment Analysis project.
-
-Run with:
-    streamlit run app.py
-
-Type or paste ANY product review (your own, or copy-pasted from a real
-Amazon/Flipkart review) and instantly see:
-  - VADER sentiment (rule-based)
-  - TextBlob sentiment (rule-based)
-  - ML model prediction (Logistic Regression, trained on our dataset)
-Plus a full dashboard tab showing the overall analysis of all 600 reviews.
-"""
-
 import os
 import sys
 import joblib
