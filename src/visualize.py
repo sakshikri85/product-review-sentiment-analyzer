@@ -1,13 +1,3 @@
-"""
-visualize.py
--------------
-Creates charts to visualize the sentiment analysis results:
-  - Sentiment distribution bar chart
-  - Sentiment distribution pie chart
-  - Rating distribution
-  - Word clouds for positive and negative reviews
-"""
-
 import os
 import matplotlib
 matplotlib.use("Agg")
