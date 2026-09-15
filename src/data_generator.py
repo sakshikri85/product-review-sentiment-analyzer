@@ -1,19 +1,3 @@
-"""
-data_generator.py
-------------------
-Generates a realistic e-commerce (Amazon/Flipkart style) product review
-dataset and saves it as data/product_reviews.csv
-
-Why a generated dataset instead of live scraping?
-  1. Amazon/Flipkart aggressively block bots/scrapers (captchas, IP bans),
-     so a scraper breaks often and cannot guarantee "zero errors".
-  2. This keeps the whole project fully self-contained and runnable
-     offline in VS Code without depending on a live website's HTML
-     structure (which changes constantly and breaks scrapers).
-A best-effort scraper (src/scraper_flipkart.py) is still included as a
-bonus module if you want to try pulling real reviews.
-"""
-
 import random
 import pandas as pd
 import os
